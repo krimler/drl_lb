@@ -1,4 +1,4 @@
-# drl_lb: The experimental setup for measuring performance of automatic load balancer(Deep Reinforcement Learning based) for data center environment.
+# drl_lb: The experimental setup and code for measuring performance of automatic load balancer(Deep Reinforcement Learning based) for data center environment.
 
 ## Traffic Generation:
 The repository contains code for following:
