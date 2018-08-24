@@ -1,0 +1,2 @@
+pip install redis tensorflow gym keras
+brew install redis

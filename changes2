@@ -1,0 +1,6 @@
+
+changes2-----
+1. modified batchsize to 100,000 from 10, 000.
+2. store hash of strings instead of LB_state object.
+3. Added three more internal DNN layers of 1024 neurons with hard_sigmoid.
+
