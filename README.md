@@ -29,3 +29,7 @@ Simple query to Redis for number of live session is useful as measure of load ba
 
 All the references used for code development are embedded in the code itself as code comment.
 start exploring from driver.py.
+
+Please cite work:
+https://ieeexplore.ieee.org/abstract/document/8752969
+Deep Reinforcement Learning based Load Balancing Policy for balancing network traffic in datacenter environment
